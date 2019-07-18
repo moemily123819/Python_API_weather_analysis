@@ -1,0 +1,12 @@
+Observations of the results of WeatherPy :
+
+Highest temperatures can be found in the areas between latitudes -20° and +20°. 
+This is the tropical area, 20° above the equator and 20° below the equator. And 
+it gets colder when the latitude goes higher north of the equator.
+
+High humidity, however, is not found in the areas around the equator. It is 
+because humidity has other factors such as the location of the city is close to the ocean, 
+behind a mountain range or in valley.  So high humidity is not due to the latitude of a 
+geographic location.
+
+In addition, cloudiness and speed of wind are not affected by the latitude of a city either. 
